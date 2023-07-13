@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🧑🏾‍💻About
+# 🧑🏾‍💻About Stanlito_AI
 <table align = 'center' bgcolor='white'>
   <tr>
     <td rowspan = 5 align = 'center'> <img src="https://64.media.tumblr.com/109a8defa10adbe8043b4438c8881cf0/7be3682a62601e4e-54/s2048x3072/557aa265cebe95eb47626ca71444a9d69cafd3b6.pnj"/> </td> <td> 👋🏾 Hi, I’m Daheer / Deedax Inc </td>
@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
 <div id="badges" align = 'center'>
   <a href = 'https://www.linkedin.com/in/chidera-stanley'> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=blue&style=social" alt="LinkedIn Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = 'https://www.youtube.com/@deedaxinc'> <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=red&style=social" alt="Youtube Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = 'https://github.com/Daheer'> <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=black&style=social" alt="GitHub Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = 'https://twitter.com/DeedaxInc'> <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=blue&style=social" alt="Twitter Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = 'https://instagram.com/deedax_inc'> <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=red&style=social" alt="Instagram Badge"/> </a>
+  <a href = 'https://www.youtube.com/'> <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=red&style=social" alt="Youtube Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = 'https://github.com/Stanlito-AI'> <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=black&style=social" alt="GitHub Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = 'https://twitter.com/Stanlito20'> <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=blue&style=social" alt="Twitter Badge"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = 'https://instagram.com/'> <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=red&style=social" alt="Instagram Badge"/> </a>
 </div>
 
 # ⚒️Languages and Tools 
