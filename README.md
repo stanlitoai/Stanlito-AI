@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 🧑🏾‍💻About Stanlito_AI
 <table align = 'center' bgcolor='white'>
   <tr>
-    <td rowspan = 5 align = 'center'> <img src="https://64.media.tumblr.com/109a8defa10adbe8043b4438c8881cf0/7be3682a62601e4e-54/s2048x3072/557aa265cebe95eb47626ca71444a9d69cafd3b6.pnj"/> </td> <td> 👋🏾 Hi, I’m Daheer / Deedax Inc </td>
+    <td rowspan = 5 align = 'center'> <img src="https://64.media.tumblr.com/109a8defa10adbe8043b4438c8881cf0/7be3682a62601e4e-54/s2048x3072/557aa265cebe95eb47626ca71444a9d69cafd3b6.pnj"/> </td> <td> 👋🏾 Hi, I’m Stanley / Stanlito_AI </td>
     
     
   </tr>
