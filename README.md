@@ -33,7 +33,7 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stanlito-AI" alt="Stanlito-AI" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Stanlito-AI" target="blank"><img src="https://img.shields.io/twitter/follow/ann_afame?logo=twitter&style=for-the-badge" alt="Stanlito-AI" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Stanlito-AI" target="blank"><img src="https://img.shields.io/twitter/follow/Stanlito20?logo=twitter&style=for-the-badge" alt="Stanlito-AI" /></a> </p>
 
 
 - 📝 I regularly write articles on [medium](https://medium.com/@mosesstanley99)
@@ -109,11 +109,12 @@
 ![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
 
+
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
-
-
 
 
 
