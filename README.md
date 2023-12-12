@@ -8,7 +8,9 @@
  [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://www.buymeacoffee.com/mosesstanlu)
 
 
- <img align="left" alt="coding" width="400" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif"> <img align="right" alt="coding" width="400" src="https://github.com/annfelix/annfelix/blob/main/rr.gif"> 
+ <img align="left" alt="coding" width="500" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif"> 
+ 
+ <img align="right" alt="coding" width="400" src="https://github.com/annfelix/annfelix/blob/main/rr.gif"> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ann-afame&label=Profile%20views&color=0e75b6&style=flat" alt="ann-afame" /> </p>
