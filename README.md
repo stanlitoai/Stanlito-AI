@@ -1,19 +1,21 @@
 
 
-
-
-
-
-
-
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Chidera Stanley,  MlOPS / Deep learning Engineer :computer:<br>
+  <br> <h3 align="center"> Passionate About MLOps</h3>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 
 
 
 
 
 ![logo](https://github.com/annfelix/annfelix/blob/main/WhatsApp%20Image%202022-11-24%20at%2020.23.27.jpg)
-<h1 align="center">Hi 👋, I'm Chidera Stanley,  MlOPS Engineer 50% of my Repositories are Private</h1>
-<h3 align="center"> Passionate About MLOps</h3>
+
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter)](https://twitter.com/Stanlito20)
