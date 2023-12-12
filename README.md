@@ -1,37 +1,39 @@
 
 
 <h2 align="left">
- <abc>
+
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Chidera Stanley,  MlOPS / Deep learning Engineer :computer:<br>
   <br> <h3 align="center"> Passionate About MLOps</h3>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
+  <br> 
+    <span>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> 
+    [![Twitter](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter)](https://twitter.com/Stanlito20)
+    [![Linkedin Followers](https://img.shields.io/badge/LinkedIn-255k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/stanlito/)
+    [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://www.buymeacoffee.com/mosesstanlu)
+    </span>
+ 
 </h2> 
+<br>
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter)](https://twitter.com/Stanlito20)
-[![Linkedin Followers](https://img.shields.io/badge/LinkedIn-255k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/stanlito/)
- [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://www.buymeacoffee.com/mosesstanlu)
 
 
  <img align="left" alt="coding" width="500" src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif"> 
- 
- <img align="right" alt="coding" width="400" src="https://github.com/annfelix/annfelix/blob/main/rr.gif"> 
 
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ann-afame&label=Profile%20views&color=0e75b6&style=flat" alt="Stanlito-AI" /> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ann-afame&label=Profile%20views&color=0e75b6&style=flat" alt="ann-afame" /> </p>
-
-
-
+<br>
+<br>
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stanlito-AI" alt="Stanlito-AI" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Stanlito-AI" target="blank"><img src="https://img.shields.io/twitter/follow/ann_afame?logo=twitter&style=for-the-badge" alt="ann_afame" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Stanlito-AI" target="blank"><img src="https://img.shields.io/twitter/follow/ann_afame?logo=twitter&style=for-the-badge" alt="Stanlito-AI" /></a> </p>
 
 
 - 📝 I regularly write articles on [medium](https://medium.com/@AnnAfame)
