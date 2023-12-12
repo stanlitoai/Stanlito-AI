@@ -13,7 +13,13 @@
  <img align="right" alt="coding" width="400" src="https://github.com/annfelix/annfelix/blob/main/rr.gif"> 
 
 
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ann-afame&label=Profile%20views&color=0e75b6&style=flat" alt="ann-afame" /> </p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ann-afame" alt="ann-afame" /></a> </p>
 
