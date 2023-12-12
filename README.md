@@ -8,9 +8,9 @@
  [![Buy me a coffee](https://img.shields.io/static/v1.svg?label=Buy%20me%20a%20coffee&message=🥨&color=black&logo=buy%20me%20a%20coffee&logoColor=white&labelColor=6f4e37)](https://www.buymeacoffee.com/mosesstanlu)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Stanlito_AI&label=Profile%20views&color=0e75b6&style=flat" alt="Stanlito_AI" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stanlito_ai&label=Profile%20views&color=0e75b6&style=flat" alt="stanlito_ai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stanlito_AI" alt="ann-afame" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanlito_ai" alt="stanlito_ai" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ann_afame" target="blank"><img src="https://img.shields.io/twitter/follow/ann_afame?logo=twitter&style=for-the-badge" alt="ann_afame" /></a> </p>
 
