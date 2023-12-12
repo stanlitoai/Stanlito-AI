@@ -86,7 +86,7 @@
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://stanlito-ai.github.io)
-[![](https://img.shields.io/badge/-🧬20Mlops_kidney_disease-000)](https://github.com/Stanlito-AI/Mlops_kidney_disease)
+[![](https://img.shields.io/badge/-🧬%20Mlops_kidney_disease-000)](https://github.com/Stanlito-AI/Mlops_kidney_disease)
 [![](https://img.shields.io/badge/-🦠%20mlproject_regression-000)](https://github.com/Stanlito-AI/mlproject_regression)
 [![](https://img.shields.io/badge/-📝%20MLOPS_cv-000)](https://github.com/Stanlito-AI/MLOPS_cv)
 [![](https://img.shields.io/badge/-🔬%20MLOps_ML-000)](https://github.com/Stanlito-AI/MLOps_ML)
