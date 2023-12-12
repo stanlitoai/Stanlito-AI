@@ -21,9 +21,9 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ann-afame" alt="ann-afame" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stanlito-AI" alt="Stanlito-AI" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ann_afame" target="blank"><img src="https://img.shields.io/twitter/follow/ann_afame?logo=twitter&style=for-the-badge" alt="ann_afame" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Stanlito-AI" target="blank"><img src="https://img.shields.io/twitter/follow/ann_afame?logo=twitter&style=for-the-badge" alt="ann_afame" /></a> </p>
 
 
 - 📝 I regularly write articles on [medium](https://medium.com/@AnnAfame)
@@ -40,7 +40,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ann_afame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ann_afame" height="30" width="40" /></a>
+<a href="https://twitter.com/Stanlito20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Stanlito-AI" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ann-afamefuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ann-afamefuna" height="30" width="40" /></a>
 <a href="https://instagram.com/total_devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="total_devops" height="30" width="40" /></a>
 <a href="https://medium.com/@annafame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@annafame" height="30" width="40" /></a>
