@@ -36,7 +36,7 @@
 <p align="left"> <a href="https://twitter.com/Stanlito-AI" target="blank"><img src="https://img.shields.io/twitter/follow/ann_afame?logo=twitter&style=for-the-badge" alt="Stanlito-AI" /></a> </p>
 
 
-- 📝 I regularly write articles on [medium](https://medium.com/@AnnAfame)
+- 📝 I regularly write articles on [medium](https://medium.com/@mosesstanley99)
 
 - 💬 Ask me about **AWS, MLOPS, Azure & DEEP LEARNING**
 
@@ -50,11 +50,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Stanlito20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Stanlito-AI" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ann-afamefuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ann-afamefuna" height="30" width="40" /></a>
-<a href="https://instagram.com/total_devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="total_devops" height="30" width="40" /></a>
-<a href="https://medium.com/@annafame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@annafame" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/totaldevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="totaldevops" height="30" width="40" /></a>
+<a href="https://twitter.com/Stanlito20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Stanlito20" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stanlito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stanlito" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a>
+<a href="https://medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="#" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -91,13 +91,13 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/totaldevops"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="totaldevops" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mosesstanlu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mosesstanlu" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ann-afame&show_icons=true&locale=en&layout=compact" alt="ann-afame" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stanlito-AI&show_icons=true&locale=en&layout=compact" alt="Stanlito-AI" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ann-afame&show_icons=true&locale=en" alt="ann-afame" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Stanlito-AI&show_icons=true&locale=en" alt="Stanlito-AI" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ann-afame&" alt="ann-afame" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stanlito-AI&" alt="Stanlito-AI" /></p>
 
 
 
