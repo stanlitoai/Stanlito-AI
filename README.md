@@ -85,13 +85,14 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/Stanlito-AI/Mlops_kidney_disease)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/Stanlito-AI/mlproject_regression)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/Stanlito-AI/MLOPS_cv)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/Stanlito-AI/MLOps_ML)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/Stanlito-AI/MLOps_DS)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/Stanlito-AI/MLOps_dev)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/Stanlito-AI/MLOps_deploy)
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://stanlito-ai.github.io)
+[![](https://img.shields.io/badge/-🧬20Mlops_kidney_disease-000)](https://github.com/Stanlito-AI/Mlops_kidney_disease)
+[![](https://img.shields.io/badge/-🦠%20mlproject_regression-000)](https://github.com/Stanlito-AI/mlproject_regression)
+[![](https://img.shields.io/badge/-📝%20MLOPS_cv-000)](https://github.com/Stanlito-AI/MLOPS_cv)
+[![](https://img.shields.io/badge/-🔬%20MLOps_ML-000)](https://github.com/Stanlito-AI/MLOps_ML)
+[![](https://img.shields.io/badge/-🛰%20MLOps_DS-000)](https://github.com/Stanlito-AI/MLOps_DS)
+[![](https://img.shields.io/badge/-🔊%20MLOps_dev-000)](https://github.com/Stanlito-AI/MLOps_dev)
+[![](https://img.shields.io/badge/-🗺%20MLOps_deploy-000)](https://github.com/Stanlito-AI/MLOps_deploy)
 
 
 
