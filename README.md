@@ -26,8 +26,6 @@
 
 - 📫 How to reach me **mosesstanley99@gmal.com**
 
-- Join DevOps World [[TELEGRAM](https://t.me/+JjivKAkkFAEzMzU8)]([TELEGRAM](https://t.me/+JjivKAkkFAEzMzU8))
-
 - ⚡ Fun fact **I Love Watching Wrestling**
 
 ### Blogs posts
