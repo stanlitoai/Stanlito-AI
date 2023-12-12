@@ -95,11 +95,28 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stanlito-AI&show_icons=true&locale=en&layout=compact" alt="Stanlito-AI" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Stanlito-AI&theme=moltack&show_icons=true&locale=en" alt="Stanlito-AI" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Stanlito-AI&theme=tokyonight&show_icons=true&locale=en" alt="Stanlito-AI" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stanlito-AI&" alt="Stanlito-AI" /></p>
 
 
 
+
+
+
+<br/> 
+
+<h2> Github Stats </h2> 
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanlito-AI&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Stanlito-AI&theme=tokyonight" alt="Stanlito-AI" />
+<br/>
+
+![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
+<img src="https://img.shields.io/github/forks/muskanrani/muskanrani?style=social"></img>
+<h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
+https://muskanrani.github.io/Portfolio/
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
 
 
